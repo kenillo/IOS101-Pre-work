@@ -28,13 +28,13 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
-Google Chrome: search bar, light/dark mode, background themes.
-Calendar app: add notes, scroll feature to look at other months/days.
-Myfitnesspal: comprehensive tracking, goal setting/progress tracking.
+* Google Chrome: search bar, light/dark mode, background themes.
+* Calendar app: add notes, scroll feature to look at other months/days.
+* Myfitnesspal: comprehensive tracking, goal setting/progress tracking.
 
 ## Notes
 
-Some challenges I faced when building this app was how...
+I encountered several challenges during the app development process. Notably, I grappled with effectively understanding the workings within the main.storyboard (Base) and implementing edits within the view controller section. Additionally, there was the task of constructing and executing the program to assess its display on the mobile device. Moreover, I encountered difficulty in modifying the program and establishing connections between the class view controller and the overarching UIViewController, particularly in comprehending the function's behavior when altering the background color, as well as establishing proper connections for the button. 
 
 ## License
 

@@ -2,9 +2,9 @@
 
 Submitted by: **Kenneth Astudillo**
 
-**Name of your app** is an app that... [TODO] 
+**IOS101 Pre-work** is an app that allows the user to change the background color with a button click. 
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 

@@ -28,9 +28,13 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+Google Chrome: search bar, light/dark mode, background themes.
+Calendar app: add notes, scroll feature to look at other months/days.
+Myfitnesspal: comprehensive tracking, goal setting/progress tracking.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I faced when building this app was how...
 
 ## License
 
